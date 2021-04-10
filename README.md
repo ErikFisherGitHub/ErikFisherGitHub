@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ErikFisherGitHub
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning game developement
+- 🌱 I’m currently learning game development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
